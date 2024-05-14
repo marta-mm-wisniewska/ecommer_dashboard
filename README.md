@@ -1,6 +1,6 @@
 # ecommerce_dashboard
 Power BI dashboard which presents ecommerce data.
- 
+<h3>Tools:</h3> 
 <ul>
   <li>Microsoft Power BI</li>
   <li>Power Query</li>
